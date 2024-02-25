@@ -15,10 +15,6 @@
 
 - 🤝 I’m always open to help friends/coworkers to **deliver the best result**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **SQL, PL/SQL, Python, AWS, Financial Services, ERP Softwares and others**
 
 - 📫 How to reach me **victorlazari@me.com or +5511993999870 (iMessage/WhatsApp)**
