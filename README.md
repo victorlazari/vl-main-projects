@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **victorlazari@me.com or +5511993999870 (iMessage/WhatsApp)**
 
-- 📄 Know about my experiences [linkedin.com/in/victorlazarien](linkedin.com/in/victorlazarien)
+- 📄 Know about my experiences [linkedin.com/in/victorlazari](linkedin.com/in/victorlazari)
 
 - ⚡ Fun fact **Love to discuss about the future, science, space, physics**
 
@@ -26,7 +26,7 @@
 <a href="https://codepen.io/victorlazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="victorlazari" height="30" width="40" /></a>
 <a href="https://dev.to/lazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lazari" height="30" width="40" /></a>
 <a href="https://twitter.com/victorlazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorlazari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victorlazarien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorlazarien" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victorlazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorlazari" height="30" width="40" /></a>
 <a href="https://instagram.com/imlazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imlazari" height="30" width="40" /></a>
 <a href="https://medium.com/@lazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lazari" height="30" width="40" /></a>
 </p>
